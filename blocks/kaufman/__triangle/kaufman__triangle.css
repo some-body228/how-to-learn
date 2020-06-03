@@ -1,0 +1,11 @@
+.kaufman__triangle{
+    height: 877px;
+    width: 877px;
+    background-image: url(../../../images/kaufman-triangle.svg);
+    background-size: cover;
+    position: absolute;
+    background-size: cover;
+    z-index: 0;
+    top:0;
+    right: -210px;
+  }
