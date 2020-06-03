@@ -8,5 +8,4 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
     background-color: #f2f2f2;
-    background-image: linear-gradient(#f2f2f2  1000px, white  1000px 3000px, #f2f2f2 3001px);
-  }
+}

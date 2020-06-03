@@ -12,4 +12,5 @@
     justify-content: center;
     min-height: 350px;
     color: white;
+    box-sizing: border-box;
   }
