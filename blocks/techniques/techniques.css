@@ -1,6 +1,6 @@
 .techniques{
     padding: 0 0 100px 0;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
-    background-color: white;
+    overflow: 1;
 }
